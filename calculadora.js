@@ -24,3 +24,4 @@ function calcula (operacao,num1,num2) {
 
 const output = calcula(operacao,num1,num2)
 console.log(output)
+  
